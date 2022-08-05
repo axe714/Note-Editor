@@ -2,7 +2,7 @@
 
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-![Note Editor Demo](./src/images/text-editor-demo.png)
+![Note Editor Demo](./images/text-editor-demo.png)
 
 ## Description 📍
 - A browser based text editor featuring data persistence and offline functionality.
